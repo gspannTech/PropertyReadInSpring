@@ -1,10 +1,7 @@
 package com.spring.javabrains;
 
-import org.springframework.stereotype.Component;
 
-@Component
 public class EnvironmentParams {
-
 	
 	private String selenium_browser;	
 	private String app_url;
